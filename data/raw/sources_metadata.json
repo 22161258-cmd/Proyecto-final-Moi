@@ -1,0 +1,43 @@
+{
+  "fuente_principal": "SECTUR Oaxaca - Boletines de Indicadores de la Actividad Turística (DATATUR / SIITE)",
+  "portal_url": "https://www.oaxaca.gob.mx/sectur/informacion-de-interes/estadisticas/",
+  "fecha_corte": "Agosto 2026 (cifras preliminares enero-agosto 2026; cierres anuales 2022, 2024 y 2025)",
+  "anios_cubiertos": [
+    2022,
+    2024,
+    2025,
+    2026
+  ],
+  "destinos_cubiertos": 9,
+  "boletines": [
+    {
+      "anio": 2022,
+      "tipo_cifra": "Cierre",
+      "corte": "Enero-Diciembre 2022 (Cierre anual)",
+      "pdf_name": "2023_05_1.-Indicadores-de-la-Actividad-Turistica-2022-2.pdf",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2023/05/1.-Indicadores-de-la-Actividad-Turistica-2022-2.pdf"
+    },
+    {
+      "anio": 2024,
+      "tipo_cifra": "Cierre",
+      "corte": "Enero-Diciembre 2024 (Cierre anual)",
+      "pdf_name": "2025_04_1.-Indicadores-de-la-Actividad-Turistica-2024-cierre-web.pdf",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2025/04/1.-Indicadores-de-la-Actividad-Turistica-2024-cierre-web.pdf"
+    },
+    {
+      "anio": 2025,
+      "tipo_cifra": "Cierre",
+      "corte": "Enero-Diciembre 2025 (Cierre anual)",
+      "pdf_name": "2026_04_1.-Indicadores-de-la-Actividad-Turistica-2025.pdf.pdf",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2026/04/1.-Indicadores-de-la-Actividad-Turistica-2025.pdf.pdf"
+    },
+    {
+      "anio": 2026,
+      "tipo_cifra": "Preliminar",
+      "corte": "Enero-Agosto 2026 (Cifras preliminares)",
+      "pdf_name": "2026_09_1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_-agosto.pdf",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2026/09/1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_-agosto.pdf"
+    }
+  ],
+  "nota_2023": "El boletín anual 2023 está publicado como imágenes rasterizadas sin capa de texto extraíble."
+}

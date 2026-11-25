@@ -1,0 +1,168 @@
+{
+  "files": [
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2026/10/1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_sept.pdf",
+      "local_file": "data/raw/official/2026_10_1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_sept.pdf",
+      "downloaded_at_utc": "2026-11-25T15:39:42.790396+00:00",
+      "bytes": 6389731
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2026/09/1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_-agosto.pdf",
+      "local_file": "data/raw/official/2026_09_1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_-agosto.pdf",
+      "downloaded_at_utc": "2026-11-25T15:39:44.648738+00:00",
+      "bytes": 892612
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2026/07/1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_-junio.pdf",
+      "local_file": "data/raw/official/2026_07_1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_-junio.pdf",
+      "downloaded_at_utc": "2026-11-25T15:39:44.870115+00:00",
+      "bytes": 933674
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2026/06/1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_-mayo.pdf",
+      "local_file": "data/raw/official/2026_06_1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_-mayo.pdf",
+      "downloaded_at_utc": "2026-11-25T15:39:45.808148+00:00",
+      "bytes": 5245658
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2026/05/1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_-abril.pdf",
+      "local_file": "data/raw/official/2026_05_1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_-abril.pdf",
+      "downloaded_at_utc": "2026-11-25T15:39:46.026491+00:00",
+      "bytes": 920266
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2026/04/1.-Indicadores-de-la-Actividad-Turistica-2025.pdf.pdf",
+      "local_file": "data/raw/official/2026_04_1.-Indicadores-de-la-Actividad-Turistica-2025.pdf.pdf",
+      "downloaded_at_utc": "2026-11-25T15:39:46.477980+00:00",
+      "bytes": 1951110
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2026/02/Anual_Ciudad-de-Oaxaca_PGST_2024-2025-perfil.pdf",
+      "local_file": "data/raw/official/2026_02_Anual_Ciudad-de-Oaxaca_PGST_2024-2025-perfil.pdf",
+      "downloaded_at_utc": "2026-11-25T15:39:47.737787+00:00",
+      "bytes": 2351132
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2025/11/1.-Indicadores-de-la-Actividad-Turistica-2025-Enero-sept.pdf",
+      "local_file": "data/raw/official/2025_11_1.-Indicadores-de-la-Actividad-Turistica-2025-Enero-sept.pdf",
+      "downloaded_at_utc": "2026-11-25T15:39:49.527552+00:00",
+      "bytes": 1544783
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2025/09/1.-Indicadores-de-la-Actividad-Turistica-2025-Enero-agosto-preliminar-v1.pdf",
+      "local_file": "data/raw/official/2025_09_1.-Indicadores-de-la-Actividad-Turistica-2025-Enero-agosto-preliminar-v1.pdf",
+      "downloaded_at_utc": "2026-11-25T15:39:52.492052+00:00",
+      "bytes": 1642704
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2025/08/Perfil-y-grado-de-satisfaccion-del-turista-cdOaxaca-1er-cuatrimestre2025.pdf",
+      "local_file": "data/raw/official/2025_08_Perfil-y-grado-de-satisfaccion-del-turista-cdOaxaca-1er-cuatrimestre2025.pdf",
+      "downloaded_at_utc": "2026-11-25T15:39:58.024437+00:00",
+      "bytes": 986870
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2025/07/1.-Indicadores-de-la-Actividad-Turistica-2025-Enero-junio-preliminar.pdf",
+      "local_file": "data/raw/official/2025_07_1.-Indicadores-de-la-Actividad-Turistica-2025-Enero-junio-preliminar.pdf",
+      "downloaded_at_utc": "2026-11-25T15:39:59.043776+00:00",
+      "bytes": 919567
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2025/05/1.-Indicadores-de-la-Actividad-Turistica-2025-Enero-abril-preliminar.pdf",
+      "local_file": "data/raw/official/2025_05_1.-Indicadores-de-la-Actividad-Turistica-2025-Enero-abril-preliminar.pdf",
+      "downloaded_at_utc": "2026-11-25T15:40:00.007589+00:00",
+      "bytes": 1541492
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2025/04/1.-Indicadores-de-la-Actividad-Turistica-2025-Enero-marzo-preliminar.pdf",
+      "local_file": "data/raw/official/2025_04_1.-Indicadores-de-la-Actividad-Turistica-2025-Enero-marzo-preliminar.pdf",
+      "downloaded_at_utc": "2026-11-25T15:40:00.497887+00:00",
+      "bytes": 432598
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2025/04/1.-Indicadores-de-la-Actividad-Turistica-2024-cierre-web.pdf",
+      "local_file": "data/raw/official/2025_04_1.-Indicadores-de-la-Actividad-Turistica-2024-cierre-web.pdf",
+      "downloaded_at_utc": "2026-11-25T15:40:01.920809+00:00",
+      "bytes": 1038719
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2025/02/Resultados-Perfil-del-Turista-ciudad-de-Oaxaca-2024.pdf",
+      "local_file": "data/raw/official/2025_02_Resultados-Perfil-del-Turista-ciudad-de-Oaxaca-2024.pdf",
+      "downloaded_at_utc": "2026-11-25T15:40:04.929105+00:00",
+      "bytes": 2120953
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2025/02/1.-Indicadores-de-la-Actividad-Turistica-2024-cierre-ok.pdf",
+      "local_file": "data/raw/official/2025_02_1.-Indicadores-de-la-Actividad-Turistica-2024-cierre-ok.pdf",
+      "downloaded_at_utc": "2026-11-25T15:40:05.767120+00:00",
+      "bytes": 717547
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2024/11/1.-Indicadores-de-la-Actividad-Turistica-2024-enero-octubre.pdf",
+      "local_file": "data/raw/official/2024_11_1.-Indicadores-de-la-Actividad-Turistica-2024-enero-octubre.pdf",
+      "downloaded_at_utc": "2026-11-25T15:40:07.019466+00:00",
+      "bytes": 1425759
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2024/10/1.-Indicadores-de-la-Actividad-Turistica-2024-enero-Agosto.pdf",
+      "local_file": "data/raw/official/2024_10_1.-Indicadores-de-la-Actividad-Turistica-2024-enero-Agosto.pdf",
+      "downloaded_at_utc": "2026-11-25T15:40:07.871824+00:00",
+      "bytes": 868391
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2024/07/1.-Indicadores-de-la-Actividad-Turistica-2024-enero-mayo.pdf",
+      "local_file": "data/raw/official/2024_07_1.-Indicadores-de-la-Actividad-Turistica-2024-enero-mayo.pdf",
+      "downloaded_at_utc": "2026-11-25T15:40:08.214998+00:00",
+      "bytes": 321517
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2024/01/1.-Indicadores-de-la-Actividad-Turistica-2023.pdf",
+      "local_file": "data/raw/official/2024_01_1.-Indicadores-de-la-Actividad-Turistica-2023.pdf",
+      "downloaded_at_utc": "2026-11-25T15:40:18.412147+00:00",
+      "bytes": 5292892
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2023/11/Indicadores-de-la-Actividad-Turistica-2023-enero-septiembre.pdf",
+      "local_file": "data/raw/official/2023_11_Indicadores-de-la-Actividad-Turistica-2023-enero-septiembre.pdf",
+      "downloaded_at_utc": "2026-11-25T15:40:20.850037+00:00",
+      "bytes": 5137199
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2023/05/1.-Indicadores-de-la-Actividad-Turistica-2022-2.pdf",
+      "local_file": "data/raw/official/2023_05_1.-Indicadores-de-la-Actividad-Turistica-2022-2.pdf",
+      "downloaded_at_utc": "2026-11-25T15:40:21.181863+00:00",
+      "bytes": 983254
+    },
+    {
+      "source": "SECTUR Oaxaca",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2024/10/INDICADORES_ESTATEGICOS_SECTUR_241011_181242.pdf",
+      "local_file": "data/raw/official/2024_10_INDICADORES_ESTATEGICOS_SECTUR_241011_181242.pdf",
+      "downloaded_at_utc": "2026-11-25T15:40:21.508692+00:00",
+      "bytes": 750058
+    }
+  ],
+  "datatur_links": [
+    "https://datatur.sectur.gob.mx/Documentoscompartidos/compendio/CETM2025.zip"
+  ]
+}

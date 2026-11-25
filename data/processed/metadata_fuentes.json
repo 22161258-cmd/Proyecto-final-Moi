@@ -1,0 +1,79 @@
+{
+  "proyecto": "Dashboard de Ocupación Hotelera y Derrama Turística en Oaxaca",
+  "fuente_oficial": "SECTUR Oaxaca - Boletines de Indicadores de la Actividad Turística (DATATUR / SIITE)",
+  "portal_url": "https://www.oaxaca.gob.mx/sectur/informacion-de-interes/estadisticas/",
+  "fecha_corte": "Agosto 2026 (cifras preliminares enero-agosto 2026; cierres anuales 2022, 2024 y 2025)",
+  "ultima_fecha_datos": "2026-08-01",
+  "etl_executed_at_utc": "2026-11-25T16:03:03.739759+00:00",
+  "boletines": [
+    {
+      "anio": 2022,
+      "tipo_cifra": "Cierre",
+      "corte": "Enero-Diciembre 2022 (Cierre anual)",
+      "pdf_name": "2023_05_1.-Indicadores-de-la-Actividad-Turistica-2022-2.pdf",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2023/05/1.-Indicadores-de-la-Actividad-Turistica-2022-2.pdf"
+    },
+    {
+      "anio": 2024,
+      "tipo_cifra": "Cierre",
+      "corte": "Enero-Diciembre 2024 (Cierre anual)",
+      "pdf_name": "2025_04_1.-Indicadores-de-la-Actividad-Turistica-2024-cierre-web.pdf",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2025/04/1.-Indicadores-de-la-Actividad-Turistica-2024-cierre-web.pdf"
+    },
+    {
+      "anio": 2025,
+      "tipo_cifra": "Cierre",
+      "corte": "Enero-Diciembre 2025 (Cierre anual)",
+      "pdf_name": "2026_04_1.-Indicadores-de-la-Actividad-Turistica-2025.pdf.pdf",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2026/04/1.-Indicadores-de-la-Actividad-Turistica-2025.pdf.pdf"
+    },
+    {
+      "anio": 2026,
+      "tipo_cifra": "Preliminar",
+      "corte": "Enero-Agosto 2026 (Cifras preliminares)",
+      "pdf_name": "2026_09_1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_-agosto.pdf",
+      "url": "https://www.oaxaca.gob.mx/sectur/wp-content/uploads/sites/65/2026/09/1.-Indicadores-de-la-Actividad-Turistica-2026-Enero_-agosto.pdf"
+    }
+  ],
+  "nota_cobertura": "El boletín anual 2023 está publicado como imágenes rasterizadas sin capa de texto extraíble.",
+  "destinos": [
+    "Ciudad de Oaxaca",
+    "Bahías de Huatulco",
+    "Puerto Escondido",
+    "Tuxtepec",
+    "Istmo de Tehuantepec",
+    "Mixteca",
+    "Juquila",
+    "Ventanilla Puerto Ángel",
+    "Resto del Estado"
+  ],
+  "quality_summary": {
+    "duplicates_removed": {
+      "dim_destino": 0,
+      "fact_actividad_turistica": 0,
+      "fact_turistas_origen": 0
+    },
+    "null_meta_ocupacion_rows": 396,
+    "rows": {
+      "dim_tiempo": 44,
+      "dim_destino": 9,
+      "fact_actividad_turistica": 396,
+      "fact_turistas_origen": 792
+    },
+    "reconciled_origin_vs_total_turistas": true,
+    "years_covered": [
+      2022,
+      2024,
+      2025,
+      2026
+    ],
+    "months_per_year": {
+      "2022": 12,
+      "2024": 12,
+      "2025": 12,
+      "2026": 8
+    },
+    "total_turistas_acumulados": 21765178,
+    "total_derrama_acumulada_mxn": 79276000000.0
+  }
+}
